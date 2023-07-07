@@ -30,7 +30,6 @@ decorator>=4.4.2
 defusedxml>=0.7.1
 dill>=0.3.6
 distributed>=2022.12.1
-dlib>=19.24.2
 dm-tree>=0.1.8
 docutils>=0.16
 dopamine-rl>=4.0.6
